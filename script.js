@@ -1,3 +1,5 @@
+// stopwatch only with seconds
+
 const root = document.getElementById("root");
 
 let sec = 0;
