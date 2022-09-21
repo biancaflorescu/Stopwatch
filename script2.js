@@ -1,4 +1,4 @@
-// stopwatch with minutes, seconds and hundredths second
+// stopwatch with minutes, seconds and hundredths seconds
 
 const root = document.getElementById("root");
 const minEl = document.getElementById("min");

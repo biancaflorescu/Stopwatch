@@ -1,4 +1,4 @@
-// stopwatch only with seconds
+// stopwatch with seconds
 
 const root = document.getElementById("root");
 
